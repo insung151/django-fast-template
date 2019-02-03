@@ -1,7 +1,3 @@
-__init__.py-tpl
-settings.py-tpl
-urls.py-tpl
-wsgi.py-tpl#!/usr/bin/env python
 import os
 import sys
 
